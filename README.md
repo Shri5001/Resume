@@ -36,13 +36,4 @@ Make sure you have **TeX Live** or **MiKTeX** installed. Then run:
 ```bash
 pdflatex resume.tex
 
-The latest compiled version is available here:
-👉 Download Resume (PDF)
-
-🔗 Connect with Me
-
-📧 Email: shriyeole5002@gmail.com
-
-💼 LinkedIn: linkedin.com/in/shrikrishna-yeole
-
-💻 GitHub: github.com/shrikrishnayeole
+---
